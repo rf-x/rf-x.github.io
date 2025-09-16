@@ -1,0 +1,12 @@
+{
+  "printWidth": 80,            // 每行最大长度，方便阅读
+  "tabWidth": 2,               // 缩进为 2 个空格
+  "useTabs": false,            // 不使用 Tab
+  "semi": false,               // 不加分号，Markdown/JS 可选
+  "singleQuote": true,         // 使用单引号
+  "trailingComma": "none",     // 不加尾随逗号
+  "bracketSpacing": true,      // 对象大括号内加空格
+  "arrowParens": "always",     // 箭头函数参数加括号
+  "endOfLine": "lf",           // 换行符使用 LF
+  "proseWrap": "always"        // Markdown 段落自动换行
+}

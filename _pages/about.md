@@ -32,7 +32,7 @@ latest_posts:
 
 I am a Lecturer at [Central China Normal University](https://www.ccnu.edu.cn/). Within the university, I am affiliated with the School of Chinese Language and Literature, the Hubei Provincial Key Laboratory of Artificial Intelligence and Smart Learning, and the National Language Resources Monitoring and Research Center for Network Media.
 
-I received my B.Sc. in Computer Science and Technology from [China University of Geosciences (Wuhan)](https://www.cug.edu.cn/), followed by an M.Sc. in Computer Science and Technology and a Ph.D. in Educational Technology from Central China Normal University.
+I received my B.Sc. in Computer Science and Technology from [China University of Geosciences (Wuhan)](https://www.cug.edu.cn/), followed by an M.Sc. in Computer Science and Technology and a Ph.D. in Educational Technology from Central China Normal University, under the supervision of Prof. [Tingting He](https://cs.ccnu.edu.cn/info/1109/1821.htm).
 
 ### Research Interests
 
