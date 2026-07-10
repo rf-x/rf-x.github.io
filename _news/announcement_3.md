@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper has been accepted to EMNLP 2025 Findings. :smile:
+Happy to share that our latest NLP work has been accepted to Findings of EMNLP 2025. :smile:

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper has been accepted to COLING 2025. :smile:
+Our syntax-opinion-sentiment reasoning chain paper will appear at COLING 2025. :smile:

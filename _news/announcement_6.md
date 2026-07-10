@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper has been accepted to GEM 2026. :smile:
+Our ReproHum study on sociopolitical acceptability judgments will appear at GEM 2026. :smile:

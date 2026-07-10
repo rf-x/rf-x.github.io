@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper has been accepted to Neurocomputing. :smile:
+Our study on multi-strategy emotional support responses is now accepted in Neurocomputing. :smile:

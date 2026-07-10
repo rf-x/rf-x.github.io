@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper has been accepted to TNNLS. :smile:
+Our work on multimodal aspect-based sentiment classification has been accepted to IEEE TNNLS. :smile:

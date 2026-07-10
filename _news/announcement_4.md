@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper has been accepted to KBS. :smile:
+Our LLM-based data augmentation paper has been accepted by Knowledge-Based Systems. :smile:
